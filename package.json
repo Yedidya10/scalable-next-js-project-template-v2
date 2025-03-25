@@ -1,0 +1,50 @@
+{
+  "name": "scalable-next-js-project-template-v2",
+  "version": "2.0.0",
+  "description": "A template for creating a production-ready fullstack Next.js application.",
+  "license": "MIT",
+  "homepage": "https://github.com/Yedidya10/scalable-next-js-project-template-v2#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yedidya10/scalable-next-js-project-template-v2.git"
+  },
+  "author": {
+    "name": "Aberjel Yedidya",
+    "url": "https://github.com/Yedidya10"
+  },
+  "bugs": {
+    "url": "https://github.com/Yedidya10/scalable-next-js-project-template-v2/issues"
+  },
+  "private": true,
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=18.2.0",
+    "yarn": "please-use-npm",
+    "next": ">=15.2.4",
+    "@types/node": ">=20.0.0",
+    "react": ">=19.0.0",
+    "react-dom": ">=19.0.0",
+    "@types/react": ">=18.2.8",
+    "typescript": ">=5.0.0"
+  },
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "15.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.4",
+    "@eslint/eslintrc": "^3"
+  }
+}
