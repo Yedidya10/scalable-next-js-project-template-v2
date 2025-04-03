@@ -90,9 +90,9 @@ npm run prepare
 # ENV
 NODE_ENV=development
 
-# NEXTAUTH
-NEXTAUTH_URL=http://127.0.0.1:3000
-JWT_SECRET=<secret_token>
+# NEXT_AUTH
+NEXT_AUTH_URL=http://127.0.0.1:3000
+NEXT_AUT_SECRET=<secret_token>
 
 # MONGODB
 MONGODB_URI=mongodb+srv://<username>:<password>@<cluster.code>.mongodb.net/
