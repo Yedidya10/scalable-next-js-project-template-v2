@@ -20,9 +20,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 [Storybook](https://github.com/storybookjs/storybook) is a powerful tool for developing UI components in isolation. It enables you to build and test React components independently, providing a visual representation of your components. This template incorporates the latest stable version of Storybook, allowing you to iterate and maintain your UI components with ease.
 
-### MongoDB
+### MongoDB (mongoose)
 
-[MongoDB](https://github.com/mongodb/mongo) is a scalable and flexible NoSQL database that seamlessly integrates with Next.js applications. This template includes support for the latest stable version of MongoDB, empowering you to store and retrieve data, perform complex queries, and leverage its document-based model for efficient data management.
+[MongoDB](https://github.com/Automattic/mongoose) is a scalable and flexible NoSQL database that seamlessly integrates with Next.js applications. This template includes support for the latest stable version of MongoDB, empowering you to store and retrieve data, perform complex queries, and leverage its document-based model for efficient data management.
 
 ### NextAuth.js
 
