@@ -1,7 +1,16 @@
 {
   "compilerOptions": {
+    "noImplicitAny": true, // MUI requires this
+    "noImplicitThis": true, // MUI requires this
+    "strictNullChecks": true, // MUI requires this
+    "allowSyntheticDefaultImports": true, // MUI requires this
     "target": "ES2017",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "es6", // MUI requires this
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
